@@ -1,0 +1,5 @@
+site,Wind_generator_number,Capacity KWh,id,latitude,longitude,City,State,Region,Country_iso,Country
+Canacoloma,7,20800.0,1,45.9993,6.6405,Magland,Haute-Savoie,Auvergne-Rhône-Alpes,FR,France
+ElSasoG,6,17400.0,2,46.0845,6.7098,Samoëns,Haute-Savoie,Auvergne-Rhône-Alpes,FR,France
+LasMajas,20,38000.0,3,41.977450000000005,-0.9481249999999999,Castejón de Valdejasa,Zaragoza,Aragón,ES,Spain
+SierradeLuna,8,21400.0,4,45.6784,8.128599999999999,Valdilana,Biella,Piemonte,IT,Italy
